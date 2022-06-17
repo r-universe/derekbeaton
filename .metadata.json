@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ExPosition",
+    "oncran": true
+  },
+  {
+    "package": "prettyGraphs",
+    "oncran": true
+  }
+]
