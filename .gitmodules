@@ -3,15 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ExPosition"]
-	path = ExPosition
-	url = https://github.com/derekbeaton/exposition1
-	shallow = true
-	subdir = ExPosition
-	registered = true
-[submodule "prettyGraphs"]
-	path = prettyGraphs
-	url = https://github.com/derekbeaton/exposition1
-	shallow = true
-	subdir = prettyGraphs
-	registered = true
