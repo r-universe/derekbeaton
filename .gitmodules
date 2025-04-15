@@ -6,6 +6,14 @@
 	path = ExPosition
 	url = https://github.com/derekbeaton/exposition1
 	subdir = ExPosition
+[submodule "InPosition"]
+	path = InPosition
+	url = https://github.com/derekbeaton/exposition1
+	subdir = InPosition
+[submodule "TExPosition"]
+	path = TExPosition
+	url = https://github.com/derekbeaton/exposition1
+	subdir = TExPosition
 [submodule "prettyGraphs"]
 	path = prettyGraphs
 	url = https://github.com/derekbeaton/exposition1
